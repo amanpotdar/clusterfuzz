@@ -1,6 +1,10 @@
 # ClusterFuzz
 
+
+
+
 <p align="center">
+  
   <img src="docs/images/logo.png" width="400">
 </p>
 
